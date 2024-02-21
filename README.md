@@ -1,4 +1,4 @@
-# SPARKSQL-Home-Sales
+# SparkSQL-Home-Sales
 Module 22 Challenge - UWA/edX Data Analytics Bootcamp
 
 Github respository: [https://github.com/RyanLJames1997/SPARKSQL-Home-Sales](https://github.com/RyanLJames1997/SPARKSQL-Home-Sales)
